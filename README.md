@@ -8,35 +8,13 @@ Interesso‑me por sistemas de informação, gestão de processos, desenvolvimen
 
 ---
 
-## 🚀 Projetos Académicos
-
-### 🔹 Sistemas Operativos (C)
-Sistema cliente-servidor em Linux, utilizando named pipes para comunicação entre processos e geração de logs.
-
-### 🔹 Algoritmos e Estruturas de Dados 2 (C)
-Sistema de gestão de encomendas com implementação de listas ligadas, filas e pilhas.
-
-### 🔹 Programação com Objetos (Java)
-Sistema de gestão de laboratórios científicos, investigadores e projetos, aplicando princípios de orientação a objetos.
-
-### 🔹 Bases de Dados (SQL)
-Análise e manipulação de dados do Airbnb, com modelo relacional e queries analíticas.
-
-### 🔹 MoveBRT (Project Manager)
-Gestão e implementação de uma plataforma integrada para os Transportes Urbanos de Braga, integrando bilhética e semaforização.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
 **Linguagens:** C, Java, SQL  
-**Ferramentas:** VS Code, NetBeans, GitHub, MySQL, DBeaver, Linux (terminal), Draw.io  
-**Competências:** adaptabilidade, organização, proatividade, autonomia, trabalho em equipa, resolução de problemas
+**Ferramentas:** Dev‑C++, NetBeans, VS Code, GitHub, MySQL, DBeaver, Linux (terminal), Slack, Draw.io, OpenUP  
+**Competências:** adaptabilidade, organização e gestão, proatividade, responsabilidade e autonomia, trabalho em equipa, resolução de problemas
 
 ---
 
 ## 📫 Contactos
-
 📍 Guimarães, Portugal  
 📧 luanadanielaferreira@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/luana-daniela-pereira)  
